@@ -1,0 +1,190 @@
+{
+  "posts": [
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Creative Production",
+      "JobLevel": "C Suite",
+      "Howcanourteamhelp": "Upgrade to Business or Enterprise Scale",
+      "id": 1
+    },
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Hr & Legal",
+      "JobLevel": "VP",
+      "Howcanourteamhelp": "Technical & Product Support",
+      "id": 2
+    },
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Sales & Account Management",
+      "JobLevel": "Manager",
+      "Howcanourteamhelp": "Technical & Product Support",
+      "id": 3
+    },
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana2",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Sales & Account Management",
+      "JobLevel": "Manager",
+      "Howcanourteamhelp": "Technical & Product Support",
+      "id": 4
+    },
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana2",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Sales & Account Management",
+      "JobLevel": "Manager",
+      "Howcanourteamhelp": "Technical & Product Support",
+      "id": 5
+    },
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana2",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Sales & Account Management",
+      "JobLevel": "Manager",
+      "Howcanourteamhelp": "Technical & Product Support",
+      "id": 6
+    },
+    {
+      "email": "abhinabajana900@gmail.com",
+      "firstName": "Abhinaba",
+      "lastName": "Jana",
+      "phoneNumber": "09433903331",
+      "companyName": "none",
+      "TeamFunction": "Hr & Legal",
+      "JobLevel": "Director",
+      "Howcanourteamhelp": "Request a Sales Demo",
+      "id": 7
+    }
+  ],
+  "adminlogin": [
+    {
+      "email": "subhamsana700@gmail.com",
+      "password": "a",
+      "id": 1
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "email": "abhinabajana900@gmail.com",
+      "password": "abhinaba123",
+      "status": false,
+      "TodoData": [
+        {
+          "name": "Abhinaba Jana",
+          "age": "12",
+          "email": "abhinabajana900@gmail.com",
+          "gender": "male",
+          "status": false
+        }
+      ]
+    },
+    {
+      "email": "subhamsana700@gmail.com",
+      "password": "a",
+      "id": 2,
+      "status": false,
+      "TodoData": [
+        {
+          "id": 1,
+          "name": "abhinaba",
+          "age": 22,
+          "email": "abhinabajana900@gmail.com",
+          "gender": "male"
+        },
+        {
+          "name": "Abhinaba Jana",
+          "age": "24",
+          "email": "abhinabajana900@gmail.com",
+          "gender": "male",
+          "id": 2
+        },
+        {
+          "name": "Abhinaba Jana",
+          "age": "29",
+          "email": "subhamsana700@gmail.com",
+          "gender": "other",
+          "id": 3
+        },
+        {
+          "name": "Abhinaba Jana",
+          "age": "44",
+          "email": "abhinabajana900@gmail.com",
+          "gender": "male",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "email": "bharat74309@gmail.com",
+      "password": "a",
+      "status": false,
+      "TodoData": [],
+      "id": 3
+    },
+    {
+      "email": "bharat74309@gmail.com",
+      "password": "a",
+      "status": false,
+      "TodoData": [],
+      "id": 4
+    },
+    {
+      "email": "kuchu@gmail.com",
+      "password": "a",
+      "status": false,
+      "TodoData": [],
+      "id": 5
+    },
+    {
+      "email": "kuchu2@gmail.com",
+      "password": "aa",
+      "status": false,
+      "id": 6
+    },
+    {
+      "email": "yash@gmail.com",
+      "password": "a",
+      "status": false,
+      "TodoData": [
+        {
+          "name": "Abhinaba Jana",
+          "age": "22",
+          "email": "abhinabajana900@gmail.com",
+          "gender": "male",
+          "status": false
+        },
+        {
+          "name": "Abhinaba Jana",
+          "age": "23",
+          "email": "abhinabajana900@gmail.com",
+          "gender": "male",
+          "status": false
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
